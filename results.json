@@ -1,0 +1,10 @@
+{
+    "cv_stability": {
+        "Regression_RMSE_Mean": 0.0775381225541589,
+        "Regression_RMSE_STD": 0.0013566621792751017,
+        "LogisticRegression_Accuracy_Mean": 0.9998521803399851,
+        "LogisticRegression_Accuracy_STD": 0.0001810413704939511,
+        "NaiveBayes_Accuracy_Mean": 0.747819660014782,
+        "NaiveBayes_Accuracy_STD": 0.0077291449888551925
+    }
+}
